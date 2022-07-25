@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/MaryGraywolf/MaryGraywolf/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/MaryGraywolf/MaryGraywolf/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
