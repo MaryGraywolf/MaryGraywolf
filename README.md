@@ -39,8 +39,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=MaryGraywolf" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=MaryGraywolf" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=nord&locale=en&hide_border=true&username=MaryGraywolf" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&username=MaryGraywolf" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -74,10 +74,14 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/b8/37/19/b83719ef51fb399308c20e44b7839fd6.gif"  />
+<img href="https://raw.githubusercontent.com/MaryGraywolf/MaryGraywolf/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <h4 align="right">Until the next projects!!</h4>
+
+###
+
+<img align="right" height="189" src="https://i.pinimg.com/originals/b8/37/19/b83719ef51fb399308c20e44b7839fd6.gif"  />
 
 ###
