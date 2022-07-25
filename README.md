@@ -74,12 +74,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/MaryGraywolf/MaryGraywolf/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <img align="right" height="200" src="https://i.pinimg.com/originals/b8/37/19/b83719ef51fb399308c20e44b7839fd6.gif"  />
 
 ###
