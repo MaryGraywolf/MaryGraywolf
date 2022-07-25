@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MaryGraywolf/MaryGraywolf/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
