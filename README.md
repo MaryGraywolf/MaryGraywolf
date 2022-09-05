@@ -10,6 +10,10 @@
 
 ###
 
+<a href="https://app.daily.dev/Santos"><img src="https://api.daily.dev/devcards/72f598e2400946739ef39b66592d0a61.png?r=7h2" width="400" alt="Mary's Dev Card"/></a>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
