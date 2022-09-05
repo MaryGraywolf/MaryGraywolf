@@ -1,10 +1,10 @@
 <h2 align="center">Hi, my name is Mary!</h2>
 
+<a href="https://app.daily.dev/Santos"><img src="https://api.daily.dev/devcards/72f598e2400946739ef39b66592d0a61.png?r=7h2" width="400" alt="Mary's Dev Card"/></a>
+
 ###
 
 <p align="left">I'm 22 years old, I'm a Systems Analysis and Development student and currently I work as a junior developer at Têxtil Bezerra de Menezes using Java and Oracle technology to carry out my work.</p>
-
-<a href="https://app.daily.dev/Santos"><img src="https://api.daily.dev/devcards/72f598e2400946739ef39b66592d0a61.png?r=7h2" width="400" alt="Mary's Dev Card"/></a>
 
 ###
 
