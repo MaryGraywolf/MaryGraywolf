@@ -2,10 +2,16 @@
 
 ###
 
-<p align="left">I'm 22 years old, I'm a Systems Analysis and Development student and currently I work as a junior developer at Têxtil Bezerra de Menezes using Java and Oracle technology to carry out my work.</p>
+<div align="left">
+    <p >I'm 22 years old, I'm a Systems Analysis and Development student and currently I work as a junior developer at Têxtil Bezerra de Menezes using Java and Oracle technology to carry out my work.</p>
+</div>
 
-<a href="https://app.daily.dev/Santos" align="left"><img src="https://github.com/MaryGraywolf/MaryGraywolf/blob/main/devcard.svg" width="400" alt="Mary's Dev Card"/></a>
+<div align="center">
+  
+<a href="https://app.daily.dev/Santos"><img src="https://github.com/MaryGraywolf/MaryGraywolf/blob/main/devcard.svg" width="400" alt="Mary's Dev Card"/></a>
 
+</div>
+  
 ###
 
 <h3 align="center">Already know</h3>
