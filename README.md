@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <a href="https://app.daily.dev/santos"><img src="./devcard.png" width="652" alt="Mary's Dev Card"/></a>
+  <a href="https://app.daily.dev/santos"><img src="./devcard.png" width="356" alt="Mary's Dev Card"/></a>
 </div>
 
 ###
