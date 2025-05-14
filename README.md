@@ -4,17 +4,13 @@
 
 <h3 align="left">🚀 About Me</h3>
 
-###
-
 <img align="right" height="240" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
 
 <p align="left"><strong>• 🌍 Location:</strong> Recife → Fortaleza<br><br><strong>• 🎓 Education:</strong> Degree in Systems Analysis and Development<br><br><strong>• 🎯 Currently Specializing in:</strong> Software Engineering<br><br><strong>• 💼 Experience:</strong> 3 years in software development<br><br><strong>• 👩‍💻 Roles:</strong> Pleno Developer at textile factory + Freelancer for tech solutions</p>
 
+###
 <br clear="both">
-
 <h3 align="left">💼 Experience</h3>
-
-<br clear="both">
 
 **Pleno Developer** \
 [**TBM**] • Full-time \
@@ -28,8 +24,6 @@ Linguagens & Tecnologias: `Java`, `Oracle`, `mySQL`, `JavaScript`
 <br clear="both">
 
 <h3 align="left">🔧 Skills & Tools</h3>
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
@@ -70,8 +64,6 @@ Linguagens & Tecnologias: `Java`, `Oracle`, `mySQL`, `JavaScript`
 <br clear="both">
 
 <h3 align="left">📫 Connect with me</h3>
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.twitch.tv/ladygraywolfsl?sr=a" target="_blank">
