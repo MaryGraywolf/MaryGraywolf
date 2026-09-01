@@ -6,7 +6,7 @@
 
 <img align="right" height="240" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
 
-<p align="left"><strong>• 🌍 Location:</strong> Recife → Fortaleza<br><br><strong>• 🎓 Education:</strong> Degree in Systems Analysis and Development<br><br><strong>• 🎯 Currently Specializing in:</strong> Software Engineering<br><br><strong>• 💼 Experience:</strong> 3 years in software development<br><br><strong>• 👩‍💻 Roles:</strong> Pleno Developer at textile factory + Freelancer for tech solutions</p>
+<p align="left"><strong>• 🌍 Location:</strong> Recife → Fortaleza<br><br><strong>• 🎓 Education:</strong> Degree in Systems Analysis and Development<br><br><strong>• 🎯 Currently Specializing in:</strong> Software Engineering<br><br><strong>• 💼 Experience:</strong> 4 years in software development<br><br><strong>• 👩‍💻 Roles:</strong> Pleno Developer at textile factory + Freelancer for tech solutions</p>
 
 ###
 <br clear="both">
@@ -14,7 +14,7 @@
 
 **Pleno Developer** \
 [**TBM**] • Full-time \
-Linguagens & Tecnologias: `Java`, `Oracle`, `Flutter`, `Dart`, `JavaScript`, `N8N`\
+Linguagens & Tecnologias: `Java`, `Oracle`, `Flutter`, `Dart`, `React`, `N8N`,  `Spring Boot`\
 <br/>
 
 **Software Developer** \
@@ -69,21 +69,23 @@ Linguagens & Tecnologias: `Java`, `Oracle`, `mySQL`, `JavaScript`
   <a href="https://www.twitch.tv/ladygraywolfsl?sr=a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="mailto:marysantoslima24@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/maria-santos-lima/" target="_blank">
+  <a href="https://www.linkedin.com/in/mariasantoslima/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<br clear="both">
+
+<a href="https://daily.dev/santos"><img src="https://api.daily.dev/devcards/v2/PEZPacIFhHQXxKFSxyzXS.png?type=wide&r=adb" width="652" alt="Mary's Dev Card"/></a>
 
 ###
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaryGraywolf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MaryGraywolf&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
